@@ -6,6 +6,10 @@ body:
   - type: markdown
     attributes:
       value: |
+        Prefer to reach us privately? Email support@skoft.app.
+  - type: markdown
+    attributes:
+      value: |
         Thanks for reporting a problem with DossierForge. Please do not include personal data, secrets or confidential product details; this repository is public.
   - type: textarea
     id: what-happened
@@ -28,7 +32,7 @@ body:
     id: version
     attributes:
       label: DossierForge version
-      placeholder: e.g. 0.1.0
+      placeholder: The version shown in the app
   - type: dropdown
     id: os
     attributes:

@@ -1,7 +1,12 @@
 name: Other
 description: Feedback that is not a bug or a feature request.
 title: "[Other]: "
+labels: ["question"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer to reach us privately? Email support@skoft.app.
   - type: markdown
     attributes:
       value: |

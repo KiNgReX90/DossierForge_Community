@@ -3,6 +3,10 @@ description: Suggest an idea or improvement for DossierForge.
 title: "[Feature]: "
 labels: ["enhancement"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer to reach us privately? Email support@skoft.app.
   - type: textarea
     id: problem
     attributes:
