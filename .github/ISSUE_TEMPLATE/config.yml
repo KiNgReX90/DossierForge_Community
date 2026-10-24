@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Questions and help
-    url: https://github.com/KiNgReX90/DossierForge_Community/discussions
-    about: Ask and answer questions about DossierForge in Discussions.
-  - name: Private contact
-    url: mailto:support@skoft.app
-    about: For anything you do not want to share publicly, email support@skoft.app.
+  - name: Report a security vulnerability
+    url: https://dossierforge.com/security/
+    about: Never in a public issue. Report it privately on this page.
+  - name: Send a problem or an idea privately
+    url: https://dossierforge.com/support/
+    about: Mail it to us instead of posting it here.

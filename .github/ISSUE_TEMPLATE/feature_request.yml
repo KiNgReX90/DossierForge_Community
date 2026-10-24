@@ -1,12 +1,11 @@
-name: Feature request
+name: Idea
 description: Suggest an idea or improvement for DossierForge.
-title: "[Feature]: "
-labels: ["enhancement"]
+labels: ["idea"]
 body:
   - type: markdown
     attributes:
       value: |
-        Prefer to reach us privately? Email support@skoft.app.
+        Anyone can read this page. To send an idea privately, mail idea@dossierforge.com.
   - type: textarea
     id: problem
     attributes:

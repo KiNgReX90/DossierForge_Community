@@ -1,19 +1,14 @@
-name: Other
-description: Feedback that is not a bug or a feature request.
-title: "[Other]: "
-labels: ["question"]
+name: Question or something else
+description: A question about DossierForge, or anything that is not a problem or an idea.
+labels: ["idea"]
 body:
   - type: markdown
     attributes:
       value: |
-        Prefer to reach us privately? Email support@skoft.app.
-  - type: markdown
-    attributes:
-      value: |
-        Have a question about using DossierForge? Please start a thread in Discussions instead.
+        Anyone can read this page. To ask privately, use the addresses on https://dossierforge.com/support/.
   - type: textarea
     id: feedback
     attributes:
-      label: Your feedback
+      label: Your question or feedback
     validations:
       required: true

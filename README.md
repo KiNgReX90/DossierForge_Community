@@ -6,11 +6,11 @@ DossierForge is not released yet.
 
 ## How to reach us
 
-- **Found a bug?** Open an issue with the [bug report form](../../issues/new?template=bug_report.yml).
-- **Have an idea?** Open an issue with the [feature request form](../../issues/new?template=feature_request.yml).
-- **Have a question?** Start a thread in [Discussions](../../discussions).
-- **Something else?** Use the [other form](../../issues/new?template=other.yml).
-- **Private matter?** Email [support@skoft.app](mailto:support@skoft.app).
+- **Found a problem?** Open an issue with the [problem form](../../issues/new?template=bug_report.yml).
+- **Have an idea?** Open an issue with the [idea form](../../issues/new?template=feature_request.yml).
+- **Have a question?** Use the [question form](../../issues/new?template=other.yml).
+- **Private matter?** Use the addresses on [dossierforge.com/support](https://dossierforge.com/support/).
+- **Found a vulnerability?** Report it privately on [dossierforge.com/security](https://dossierforge.com/security/), never in an issue.
 
 This repository is public. Please leave out personal data, secrets and confidential product details.
 

@@ -1,16 +1,11 @@
-name: Bug report
+name: Problem
 description: Something in DossierForge does not work as expected.
-title: "[Bug]: "
-labels: ["bug"]
+labels: ["problem"]
 body:
   - type: markdown
     attributes:
       value: |
-        Prefer to reach us privately? Email support@skoft.app.
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for reporting a problem with DossierForge. Please do not include personal data, secrets or confidential product details; this repository is public.
+        Anyone can read this page, so leave out logs, personal data and anything from your dossier. To send logs privately, open Settings, Feedback in DossierForge and press Problem on the In the app row, or mail problem@dossierforge.com.
   - type: textarea
     id: what-happened
     attributes:
@@ -46,4 +41,4 @@ body:
     id: extra
     attributes:
       label: Anything else?
-      description: Screenshots or log excerpts help. Remove paths, names and email addresses first.
+      description: Screenshots help. Remove paths, names, email addresses and anything from your dossier first.
